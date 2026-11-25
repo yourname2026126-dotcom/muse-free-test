@@ -1,0 +1,1 @@
+{"client_id":"https://cdn.jsdelivr.net/gh/yourname2026126-dotcom/muse-free-test/simular-box-client-metadata-v2.json","client_name":"Muse","grant_types":["authorization_code","refresh_token"],"redirect_uris":["https://agent.meta.ai/api/hatch/oauth/callback"],"response_types":["code"],"scope":"boxes connect","token_endpoint_auth_method":"none"}
