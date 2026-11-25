@@ -1,0 +1,1 @@
+{"client_name":"Muse","client_uri":"https://muse.ai","grant_types":["authorization_code","refresh_token"],"redirect_uris":["https://agent.meta.ai/api/hatch/oauth/callback"],"response_types":["code"],"scope":"boxes connect","token_endpoint_auth_method":"none"}
